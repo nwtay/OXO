@@ -1,0 +1,12 @@
+- do u pass in variables to exceptions?
+- Do all your exceptions look the same?
+- Are you allowing players with the same letter?
+- Check board can change size dynamically during the game?
+- What about win threshold falls during a game?
+- Do we need to throw exceptions in OXOModel - for example if they try to make a board
+  with 0.5 rows or something?
+- have u got 2 functions, 1 for horizontal win and 1 for vertical?
+
+
+
+
